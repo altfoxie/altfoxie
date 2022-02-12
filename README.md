@@ -14,6 +14,6 @@
   - [bat](https://github.com/sharkdp/bat/) - A cat(1) clone with wings
   - [exa](https://github.com/ogham/exa/) - A modern replacement for ‘ls’
   - [Wails](https://wails.io/) - Build applications using Go + HTML + CSS + JS
-  - [gookit/goutil](https://github.com/gookit/goutil/) - Helper Utils For The Go
+  - [goutil](https://github.com/gookit/goutil/) - Helper Utils For The Go
   - [fiber](https://github.com/gofiber/fiber/) - Express inspired web framework written in Go
 </details>
