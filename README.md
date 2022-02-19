@@ -16,4 +16,9 @@
   - [Wails](https://wails.io/) - Build applications using Go + HTML + CSS + JS
   - [goutil](https://github.com/gookit/goutil/) - Helper Utils For The Go
   - [fiber](https://github.com/gofiber/fiber/) - Express inspired web framework written in Go
+  - [zerolog](https://github.com/rs/zerolog/) - Zero Allocation JSON Logger
+  - [slog](https://github.com/gookit/slog/) - Lightweight, configurable, extensible logging library written in Go
+  - [wails](https://github.com/wailsapp/wails/) - Create desktop apps using Go and Web Technologies
+  - [qlovaseed](https://github.com/qlova/seed/) - A full-stack webapp development module for Go
+  - [tauri](https://github.com/tauri-apps/tauri/) - Build smaller, faster, and more secure desktop applications with a web frontend
 </details>
