@@ -21,4 +21,6 @@
   - [wails](https://github.com/wailsapp/wails/) - Create desktop apps using Go and Web Technologies
   - [qlovaseed](https://github.com/qlova/seed/) - A full-stack webapp development module for Go
   - [tauri](https://github.com/tauri-apps/tauri/) - Build smaller, faster, and more secure desktop applications with a web frontend
+  - [lorca](https://github.com/zserge/lorca/) - Build cross-platform modern desktop apps in Go + HTML5
+  - [chromely](https://github.com/chromelyapps/Chromely/) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
 </details>
