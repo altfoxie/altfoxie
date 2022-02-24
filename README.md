@@ -9,6 +9,7 @@
   - [Insomnia](https://insomnia.rest/) - The API Design Platform and API Client
   - [Proxyman](https://proxyman.io/) - Modern Web Debugging Proxy for macOS, iOS, and Android
   - [Hidden Bar](https://github.com/dwarvesf/hidden/) - An ultra-light MacOS utility that helps hide menu bar icons
+  - [stats](https://github.com/exelban/stats/) - macOS system monitor in your menu bar
   - [StackBlitz](https://stackblitz.com//) - The fastest, most secure dev environment on the planet
   - [micro](https://github.com/zyedidia/micro/) - A modern and intuitive terminal-based text editor
   - [btop++](https://github.com/aristocratos/btop/) - A monitor of resources
