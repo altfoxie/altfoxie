@@ -25,4 +25,5 @@
   - [tauri](https://github.com/tauri-apps/tauri/) - Build smaller, faster, and more secure desktop applications with a web frontend
   - [lorca](https://github.com/zserge/lorca/) - Build cross-platform modern desktop apps in Go + HTML5
   - [chromely](https://github.com/chromelyapps/Chromely/) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
+  - [pterm](https://github.com/pterm/pterm/) - PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible
 </details>
