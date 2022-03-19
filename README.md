@@ -27,4 +27,5 @@
   - [lorca](https://github.com/zserge/lorca/) - Build cross-platform modern desktop apps in Go + HTML5
   - [chromely](https://github.com/chromelyapps/Chromely/) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
   - [iris](https://github.com/kataras/iris/) - The fastest HTTP/2 Go Web Framework
+  - [echo](https://github.com/labstack/echo/) - High performance, minimalist Go web framework
 </details>
