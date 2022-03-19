@@ -26,4 +26,5 @@
   - [tauri](https://github.com/tauri-apps/tauri/) - Build smaller, faster, and more secure desktop applications with a web frontend
   - [lorca](https://github.com/zserge/lorca/) - Build cross-platform modern desktop apps in Go + HTML5
   - [chromely](https://github.com/chromelyapps/Chromely/) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
+  - [iris](https://github.com/kataras/iris/) - The fastest HTTP/2 Go Web Framework
 </details>
