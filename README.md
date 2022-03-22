@@ -18,6 +18,11 @@
   - [Wails](https://wails.io/) - Build applications using Go + HTML + CSS + JS
   - [goutil](https://github.com/gookit/goutil/) - Helper Utils For The Go
   - [fiber](https://github.com/gofiber/fiber/) - Express inspired web framework written in Go
+  - [iris](https://github.com/kataras/iris/) - The fastest HTTP/2 Go Web Framework
+  - [echo](https://github.com/labstack/echo/) - High performance, minimalist Go web framework
+  - [macaron](https://github.com/go-macaron/macaron/) - High productive and modular web framework in Go
+  - [beego](https://github.com/beego/beego/) - Open-source, high-performance web framework for the Go programming language
+  - [gin](https://github.com/gin-gonic/gin/) - HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster
   - [zerolog](https://github.com/rs/zerolog/) - Zero Allocation JSON Logger
   - [slog](https://github.com/gookit/slog/) - Lightweight, configurable, extensible logging library written in Go
   - [pterm](https://github.com/pterm/pterm/) - PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible
@@ -26,7 +31,5 @@
   - [tauri](https://github.com/tauri-apps/tauri/) - Build smaller, faster, and more secure desktop applications with a web frontend
   - [lorca](https://github.com/zserge/lorca/) - Build cross-platform modern desktop apps in Go + HTML5
   - [chromely](https://github.com/chromelyapps/Chromely/) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
-  - [iris](https://github.com/kataras/iris/) - The fastest HTTP/2 Go Web Framework
-  - [echo](https://github.com/labstack/echo/) - High performance, minimalist Go web framework
   - [lux](https://github.com/iawia002/lux) - Fast and simple video download library and CLI tool written in Go
 </details>
