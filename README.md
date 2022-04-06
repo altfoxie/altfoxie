@@ -21,6 +21,7 @@
   - [iris](https://github.com/kataras/iris/) - The fastest HTTP/2 Go Web Framework
   - [echo](https://github.com/labstack/echo/) - High performance, minimalist Go web framework
   - [macaron](https://github.com/go-macaron/macaron/) - High productive and modular web framework in Go
+  - [flamego](https://github.com/flamego/flamego/) - A fantastic modular Go web framework with a slim core but limitless extensibility
   - [beego](https://github.com/beego/beego/) - Open-source, high-performance web framework for the Go programming language
   - [gin](https://github.com/gin-gonic/gin/) - HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster
   - [zerolog](https://github.com/rs/zerolog/) - Zero Allocation JSON Logger
