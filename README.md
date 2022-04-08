@@ -24,6 +24,7 @@
   - [flamego](https://github.com/flamego/flamego/) - A fantastic modular Go web framework with a slim core but limitless extensibility
   - [beego](https://github.com/beego/beego/) - Open-source, high-performance web framework for the Go programming language
   - [gin](https://github.com/gin-gonic/gin/) - HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster
+  - [buffalo](https://github.com/gobuffalo/buffalo/) - Rapid Web Development w/ Go 
   - [zerolog](https://github.com/rs/zerolog/) - Zero Allocation JSON Logger
   - [slog](https://github.com/gookit/slog/) - Lightweight, configurable, extensible logging library written in Go
   - [pterm](https://github.com/pterm/pterm/) - PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible
