@@ -34,4 +34,5 @@
   - [lorca](https://github.com/zserge/lorca/) - Build cross-platform modern desktop apps in Go + HTML5
   - [chromely](https://github.com/chromelyapps/Chromely/) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
   - [lux](https://github.com/iawia002/lux) - Fast and simple video download library and CLI tool written in Go
+  - [lo](https://github.com/samber/lo/) - A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) 
 </details>
