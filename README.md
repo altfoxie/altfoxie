@@ -15,7 +15,6 @@
   - [btop++](https://github.com/aristocratos/btop/) - A monitor of resources
   - [bat](https://github.com/sharkdp/bat/) - A cat(1) clone with wings
   - [exa](https://github.com/ogham/exa/) - A modern replacement for ‘ls’
-  - [Wails](https://wails.io/) - Build applications using Go + HTML + CSS + JS
   - [goutil](https://github.com/gookit/goutil/) - Helper Utils For The Go
   - [fiber](https://github.com/gofiber/fiber/) - Express inspired web framework written in Go
   - [iris](https://github.com/kataras/iris/) - The fastest HTTP/2 Go Web Framework
