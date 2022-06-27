@@ -1,4 +1,5 @@
 <!--[![altfoxie's's github stats](https://github-readme-stats.vercel.app/api?username=altfoxie)](https://github.com/anuraghazra/github-readme-stats)--> <!--[![altfoxie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=altfoxie)](https://github.com/anuraghazra/github-readme-stats)-->
+[![wakatime](https://wakatime.com/badge/user/313a551e-83b9-49c3-9c56-608917c74188.svg)](https://wakatime.com/@313a551e-83b9-49c3-9c56-608917c74188)
 
 Hewwo i am fox
 
