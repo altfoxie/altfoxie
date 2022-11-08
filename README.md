@@ -21,7 +21,7 @@
 [![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/osx)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
-<details> 
+<!--<details> 
   <summary>I like these projects:</summary>
   
   - [Go](https://go.dev/) - The best programming language ever
@@ -55,4 +55,4 @@
   - [chromely](https://github.com/chromelyapps/Chromely/) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
   - [lux](https://github.com/iawia002/lux) - Fast and simple video download library and CLI tool written in Go
   - [lo](https://github.com/samber/lo/) - A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) 
-</details>
+</details>-->
